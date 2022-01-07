@@ -4,7 +4,7 @@
     Simple Spring Boot MVC project demonstrates basic API authorization flow with PlusAuth
     <br />
     <br />
-    <a href="https://docs.plusauth.com/"><strong>Explore the PlusAuth Spring Boot API docs »</strong></a>
+    <a href="https://github.com/PlusAuth/plusauth-spring-backend-starter"><strong>Explore the PlusAuth Spring Boot API docs »</strong></a>
 </p>
 
 <details>
