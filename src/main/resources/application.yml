@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+plusauth:
+  audience: { YOUR-API_AUDIENCE }
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://{YOUR-TENANT-NAME}.plusauth.com
+          jwk-set-uri: https://{YOUR-TENANT-NAME}.plusauth.com/.well-known/jwks.json
