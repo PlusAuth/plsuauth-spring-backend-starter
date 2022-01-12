@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://plusauth.com/">
+    <img src="https://docs.plusauth.com/images/pa-white.svg" alt="Logo" width="320" height="72" >
+  </a>
+</div>
+
 <h1 align="center">PlusAuth Spring Boot Backend Starter Project</h1>
 
  <p align="center">
@@ -17,6 +23,8 @@
     <li><a href="#what-is-plusauth">What is PlusAuth</a></li>
  </ol>
 </details>
+
+---
 
 ## About The Project
 
